@@ -1,0 +1,17 @@
+{
+  "name": "starsapp",
+  "version": "1.0.0",
+  "description": "making app for a lover of astrology",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Nefedova Oxana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
